@@ -1,0 +1,1191 @@
+Using pre-set license
+Built from '2021.1/staging' branch; Version is '2021.1.22f1 (a137e5fb0427) revision 10565605'; Using compiler version '192528614'; Build Type 'Release'
+OS: 'Windows 10 Pro; OS build 19043.1288; Version 2009; 64bit' Language: 'ru' Physical Memory: 16332 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 0
+
+COMMAND LINE ARGUMENTS:
+C:\Program Files\Unity\Hub\Editor\2021.1.22f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker0
+-projectPath
+C:/Users/ukush/industrial
+-logFile
+Logs/AssetImportWorker0.log
+-srvPort
+50675
+Successfully changed project path to: C:/Users/ukush/industrial
+C:/Users/ukush/industrial
+Using Asset Import Pipeline V2.
+Refreshing native plugins compatible for Editor in 104.57 ms, found 6 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2021.1.22f1 (a137e5fb0427)
+[Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/2021.1.22f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path C:/Users/ukush/industrial/Assets
+GfxDevice: creating device client; threaded=0; jobified=0
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: Radeon (TM) RX 470 Graphics (ID=0x67df)
+    Vendor:   ATI
+    VRAM:     4075 MB
+    Driver:   27.20.22025.1006
+Initialize mono
+Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/2021.1.22f1/Editor/Data/Managed'
+Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/2021.1.22f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
+Mono config path = 'C:/Program Files/Unity/Hub/Editor/2021.1.22f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56248
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2021.1.22f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.002622 seconds.
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 103.30 ms, found 6 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.585 seconds
+Domain Reload Profiling:
+	ReloadAssembly (1585ms)
+		BeginReloadAssembly (74ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (0ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (1ms)
+		EndReloadAssembly (622ms)
+			LoadAssemblies (71ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (270ms)
+			ReleaseScriptCaches (0ms)
+			RebuildScriptCaches (31ms)
+			SetupLoadedEditorAssemblies (266ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (7ms)
+				SetLoadedEditorAssemblies (0ms)
+				RefreshPlugins (103ms)
+				BeforeProcessingInitializeOnLoad (2ms)
+				ProcessInitializeOnLoadAttributes (113ms)
+				ProcessInitializeOnLoadMethodAttributes (41ms)
+				AfterProcessingInitializeOnLoad (0ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (0ms)
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.008005 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image C:\Users\ukush\industrial\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
+Symbol file LoadedFromMemory doesn't match image C:\Users\ukush\industrial\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.87 ms, found 6 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.287 seconds
+Domain Reload Profiling:
+	ReloadAssembly (1287ms)
+		BeginReloadAssembly (173ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (5ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (21ms)
+		EndReloadAssembly (1042ms)
+			LoadAssemblies (108ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (386ms)
+			ReleaseScriptCaches (1ms)
+			RebuildScriptCaches (57ms)
+			SetupLoadedEditorAssemblies (376ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (5ms)
+				SetLoadedEditorAssemblies (0ms)
+				RefreshPlugins (1ms)
+				BeforeProcessingInitializeOnLoad (81ms)
+				ProcessInitializeOnLoadAttributes (273ms)
+				ProcessInitializeOnLoadMethodAttributes (6ms)
+				AfterProcessingInitializeOnLoad (9ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (8ms)
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.08 seconds
+Refreshing native plugins compatible for Editor in 0.88 ms, found 6 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3268 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 121.1 MB.
+System memory in use after: 121.3 MB.
+
+Unloading 23 unused Assets to reduce memory usage. Loaded Objects now: 3714.
+Total: 3.638600 ms (FindLiveObjects: 0.333600 ms CreateObjectMapping: 0.085900 ms MarkObjects: 3.150700 ms  DeleteObjects: 0.067100 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  colorSpace: 1 -> 0
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  path: Assets/RPG_FPS_game_assets_industrial
+  artifactKey: Guid(4b3f5505f9609084089e10a13f773ed0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RPG_FPS_game_assets_industrial using Guid(4b3f5505f9609084089e10a13f773ed0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '693002eb02ceec47ece9c503fef8e05b') in 0.011871 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 133.690978 seconds.
+  path: Assets/SteamVR/InteractionSystem/Longbow/PhysicMaterials/ArcheryTargetPhysMaterial.physicMaterial
+  artifactKey: Guid(c509d5711dc2cc346be2763cd92383ca) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SteamVR/InteractionSystem/Longbow/PhysicMaterials/ArcheryTargetPhysMaterial.physicMaterial using Guid(c509d5711dc2cc346be2763cd92383ca) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '450cd74a00a414c7ab8e7f035a572a5e') in 0.055870 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000600 seconds.
+  path: Assets/SteamVR/InteractionSystem/Samples/BuggyBuddy/Buggy.physicMaterial
+  artifactKey: Guid(746d6c07f9b5b31468ae26c7ecb41b59) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SteamVR/InteractionSystem/Samples/BuggyBuddy/Buggy.physicMaterial using Guid(746d6c07f9b5b31468ae26c7ecb41b59) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5773cb1dd757354af0ae204ffb755f45') in 0.013385 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000243 seconds.
+  path: Assets/SteamVR/InteractionSystem/Samples/JoeJeff/platformer.physicMaterial
+  artifactKey: Guid(7c96990a8e2f1cc4ea46b9383d26bb7f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SteamVR/InteractionSystem/Samples/JoeJeff/platformer.physicMaterial using Guid(7c96990a8e2f1cc4ea46b9383d26bb7f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7ba02f2179a246d3145ad044ce1126cf') in 0.009031 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000227 seconds.
+  path: Assets/SteamVR/InteractionSystem/Samples/Materials/Bouncy.physicMaterial
+  artifactKey: Guid(2e81b378186c0ed4c98c04cfd4096914) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SteamVR/InteractionSystem/Samples/Materials/Bouncy.physicMaterial using Guid(2e81b378186c0ed4c98c04cfd4096914) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9af22c8eee1f2c953fb00dd454211a92') in 0.009633 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000213 seconds.
+  path: Assets/SteamVR/InteractionSystem/Samples/Squishy/SquishyBall.physicMaterial
+  artifactKey: Guid(f47bbda4aabe0b84495381b82f446a22) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SteamVR/InteractionSystem/Samples/Squishy/SquishyBall.physicMaterial using Guid(f47bbda4aabe0b84495381b82f446a22) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '388e443fb1561ac5304afc94b6d10ea6') in 0.009229 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000234 seconds.
+  path: Assets/SteamVR/InteractionSystem/Samples/Materials/Walls.physicMaterial
+  artifactKey: Guid(0aa34d7d628bdb04082aa16112cc8fd1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SteamVR/InteractionSystem/Samples/Materials/Walls.physicMaterial using Guid(0aa34d7d628bdb04082aa16112cc8fd1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '53d50e32474c52546be842c0c84dbfd0') in 0.007734 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 10.841819 seconds.
+  path: Assets/RPG_FPS_game_assets_industrial/Textures
+  artifactKey: Guid(fb80605a518b6e24098300d0fcb1e0ee) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RPG_FPS_game_assets_industrial/Textures using Guid(fb80605a518b6e24098300d0fcb1e0ee) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4bed231eb1b4d097fafd785a8a761ecb') in 0.007417 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 1.737622 seconds.
+  path: Assets/RPG_FPS_game_assets_industrial/Textures/Grass
+  artifactKey: Guid(7e0443f6f753b8843a5c46c41a55421f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RPG_FPS_game_assets_industrial/Textures/Grass using Guid(7e0443f6f753b8843a5c46c41a55421f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '46f76d2125f892ec373e1b5ec88c1d64') in 0.007107 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.066361 seconds.
+  path: Assets/RPG_FPS_game_assets_industrial/Textures/Grass/Grass_v1.mat
+  artifactKey: Guid(72b1322d6d38696439f8d1e283ddfdf7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RPG_FPS_game_assets_industrial/Textures/Grass/Grass_v1.mat using Guid(72b1322d6d38696439f8d1e283ddfdf7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd26dbbad7dc3231760c32d25d9014ad4') in 0.183897 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000167 seconds.
+  path: Assets/RPG_FPS_game_assets_industrial/Textures/Grass/Grass_v1.tga
+  artifactKey: Guid(458fc6f7dd428e748a22f2ed232be143) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RPG_FPS_game_assets_industrial/Textures/Grass/Grass_v1.tga using Guid(458fc6f7dd428e748a22f2ed232be143) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e394a6775c7b02f299c9eafdbe9b2be0') in 0.052397 seconds 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.007633 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image C:\Users\ukush\industrial\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
+Symbol file LoadedFromMemory doesn't match image C:\Users\ukush\industrial\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 1.11 ms, found 6 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.308 seconds
+Domain Reload Profiling:
+	ReloadAssembly (1308ms)
+		BeginReloadAssembly (141ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (5ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (44ms)
+		EndReloadAssembly (1091ms)
+			LoadAssemblies (114ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (427ms)
+			ReleaseScriptCaches (1ms)
+			RebuildScriptCaches (48ms)
+			SetupLoadedEditorAssemblies (380ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (8ms)
+				SetLoadedEditorAssemblies (1ms)
+				RefreshPlugins (1ms)
+				BeforeProcessingInitializeOnLoad (71ms)
+				ProcessInitializeOnLoadAttributes (284ms)
+				ProcessInitializeOnLoadMethodAttributes (5ms)
+				AfterProcessingInitializeOnLoad (9ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (14ms)
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.91 ms, found 6 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3243 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 127.2 MB.
+System memory in use after: 127.4 MB.
+
+Unloading 18 unused Assets to reduce memory usage. Loaded Objects now: 3775.
+Total: 3.607500 ms (FindLiveObjects: 0.309600 ms CreateObjectMapping: 0.086700 ms MarkObjects: 3.193600 ms  DeleteObjects: 0.016500 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  colorSpace: 1 -> 0
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  Time since last request: 177.680015 seconds.
+  path: Assets/New Terrain 1.asset
+  artifactKey: Guid(93194cd5281245240bd885ed99b22d47) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/New Terrain 1.asset using Guid(93194cd5281245240bd885ed99b22d47) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd13f14c85b8eaa8263e711eb1b6d0953') in 0.025558 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000198 seconds.
+  path: Assets/New Terrain.asset
+  artifactKey: Guid(9b60f0857e8fd114cadcb7531d8b9618) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/New Terrain.asset using Guid(9b60f0857e8fd114cadcb7531d8b9618) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '655711ec1c24b45fb472fe92b1af3016') in 0.012079 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 4.058069 seconds.
+  path: Assets/SteamVR/SteamVR.asmdef
+  artifactKey: Guid(1fbf338ef6b952a448262a7ff7df5fe4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SteamVR/SteamVR.asmdef using Guid(1fbf338ef6b952a448262a7ff7df5fe4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b5fe19c4b6582d7c8c5237ffb5dc8ac1') in 0.008101 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 4.772945 seconds.
+  path: Assets/SteamVR/Prefabs/[Status].prefab
+  artifactKey: Guid(255333d57084e4e46b3d948279746a47) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SteamVR/Prefabs/[Status].prefab using Guid(255333d57084e4e46b3d948279746a47) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a89413230481fe6f10ee96b169616093') in 0.026804 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000160 seconds.
+  path: Assets/SteamVR/InteractionSystem/Longbow/Sounds/ArrowFallGround01.wav
+  artifactKey: Guid(5dff85aa6aacb32469945a41190eadf8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SteamVR/InteractionSystem/Longbow/Sounds/ArrowFallGround01.wav using Guid(5dff85aa6aacb32469945a41190eadf8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'de1e4103fe6ed690fc032e718881d390') in 0.061927 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000178 seconds.
+  path: Assets/SteamVR/InteractionSystem/Longbow/Sounds/ArrowFallGround03.wav
+  artifactKey: Guid(c848d318c783da14d920cdb75f1ee7ac) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SteamVR/InteractionSystem/Longbow/Sounds/ArrowFallGround03.wav using Guid(c848d318c783da14d920cdb75f1ee7ac) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd14925bf8d4defe32fa7ab1498ba176f') in 0.014402 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000174 seconds.
+  path: Assets/SteamVR/InteractionSystem/Longbow/Textures/ArrowAmbientOcclusion.png
+  artifactKey: Guid(27df4f73a506cc94d99cc2e0c71966a6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SteamVR/InteractionSystem/Longbow/Textures/ArrowAmbientOcclusion.png using Guid(27df4f73a506cc94d99cc2e0c71966a6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8374860154b0027839502602f23c87fb') in 0.020672 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000178 seconds.
+  path: Assets/SteamVR/InteractionSystem/Longbow/Sounds/ArrowFallGround02.wav
+  artifactKey: Guid(46bb1e3e014c28740ae8c96427da5270) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SteamVR/InteractionSystem/Longbow/Sounds/ArrowFallGround02.wav using Guid(46bb1e3e014c28740ae8c96427da5270) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bfc21069493ff9655ab791ea42d2c77b') in 0.011331 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000196 seconds.
+  path: Assets/SteamVR/InteractionSystem/Longbow/Sounds/ArrowFallGround04.wav
+  artifactKey: Guid(cb0cd73b74d6f884bab13a472f547100) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SteamVR/InteractionSystem/Longbow/Sounds/ArrowFallGround04.wav using Guid(cb0cd73b74d6f884bab13a472f547100) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '779ea19623e1b945f5462d81dec4ec35') in 0.010978 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000227 seconds.
+  path: Assets/SteamVR/InteractionSystem/Longbow/Sounds/ArrowFallGround05.wav
+  artifactKey: Guid(da7243059d8ed744abfe851fd03f8405) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SteamVR/InteractionSystem/Longbow/Sounds/ArrowFallGround05.wav using Guid(da7243059d8ed744abfe851fd03f8405) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'acd0ae26f12a47fb719c3cdd191c4eb4') in 0.011766 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000219 seconds.
+  path: Assets/SteamVR/InteractionSystem/SnapTurn/snapTurnFX.fbx
+  artifactKey: Guid(62dcc32f358950744a33cf3ced87eaed) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SteamVR/InteractionSystem/SnapTurn/snapTurnFX.fbx using Guid(62dcc32f358950744a33cf3ced87eaed) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1e3d28e4e348f725bb28ebb7eb9a8274') in 0.529064 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000161 seconds.
+  path: Assets/SteamVR/InteractionSystem/Longbow/Sounds/ArrowFallGround07.wav
+  artifactKey: Guid(128eba63f6457ff41a65fbae1979778e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SteamVR/InteractionSystem/Longbow/Sounds/ArrowFallGround07.wav using Guid(128eba63f6457ff41a65fbae1979778e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2a494ad45abad5a17da0eaab08bf848b') in 0.018435 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000203 seconds.
+  path: Assets/SteamVR/Textures/background.png
+  artifactKey: Guid(bb00cc87e146a414fbf2c4d3c0d31151) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SteamVR/Textures/background.png using Guid(bb00cc87e146a414fbf2c4d3c0d31151) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ac3eb8a9267b66904c0df6544b8a66b8') in 0.012423 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000200 seconds.
+  path: Assets/SteamVR/InteractionSystem/Longbow/Sounds/ArrowLaunchFire05.wav
+  artifactKey: Guid(652445d40bda96847993b3a366b80b34) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SteamVR/InteractionSystem/Longbow/Sounds/ArrowLaunchFire05.wav using Guid(652445d40bda96847993b3a366b80b34) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e0c8b1347a6e4f93ae6d3a1ecf5f577b') in 0.012695 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000226 seconds.
+  path: Assets/SteamVR/InteractionSystem/Longbow/Sounds/ArrowLaunchFire09.wav
+  artifactKey: Guid(95ced3c408cd93048b111626535a8b3f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SteamVR/InteractionSystem/Longbow/Sounds/ArrowLaunchFire09.wav using Guid(95ced3c408cd93048b111626535a8b3f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '99ab1ea2f13312b0d5636bc0bc5943d6') in 0.013163 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000146 seconds.
+  path: Assets/SteamVR/InteractionSystem/Longbow/Sounds/ArrowLaunchFire12.wav
+  artifactKey: Guid(0f21ac54ede2fb1488c5719b33f0122d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SteamVR/InteractionSystem/Longbow/Sounds/ArrowLaunchFire12.wav using Guid(0f21ac54ede2fb1488c5719b33f0122d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '66fe279759c3c0add6953542d3a19e2e') in 0.011398 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000160 seconds.
+  path: Assets/SteamVR/InteractionSystem/Longbow/Sounds/BalloonBounce05.wav
+  artifactKey: Guid(7ae8d8155c5f0df4b8948d4fa4fb14c5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SteamVR/InteractionSystem/Longbow/Sounds/BalloonBounce05.wav using Guid(7ae8d8155c5f0df4b8948d4fa4fb14c5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '140f364a72616dc75cb591fecec643a8') in 0.011438 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000155 seconds.
+  path: Assets/SteamVR/InteractionSystem/Samples/Models/Furniture.fbx
+  artifactKey: Guid(2e710f2b5a4f9674183207e79056e879) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SteamVR/InteractionSystem/Samples/Models/Furniture.fbx using Guid(2e710f2b5a4f9674183207e79056e879) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6ee67ebd955c61fbce4db3f2f12427bd') in 0.303493 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000189 seconds.
+  path: Assets/SteamVR/InteractionSystem/Hints/Textures/HintBackground.png
+  artifactKey: Guid(5697c26ee2ef0c848996640f6a3d3432) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SteamVR/InteractionSystem/Hints/Textures/HintBackground.png using Guid(5697c26ee2ef0c848996640f6a3d3432) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'db5c3946493c5f5aa8b29c0e88697f39') in 0.028018 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000189 seconds.
+  path: Assets/SteamVR/InteractionSystem/Samples/Grenade/SunFlare.png
+  artifactKey: Guid(c173b3ec5b7c8904fa1811df75863262) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SteamVR/InteractionSystem/Samples/Grenade/SunFlare.png using Guid(c173b3ec5b7c8904fa1811df75863262) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '03b9a6717530ce353cf5b1c36880076d') in 0.011582 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000211 seconds.
+  path: Assets/SteamVR/InteractionSystem/Longbow/Sounds/BalloonBounce04.wav
+  artifactKey: Guid(737a6618d669e4740862cd8ddf59e793) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SteamVR/InteractionSystem/Longbow/Sounds/BalloonBounce04.wav using Guid(737a6618d669e4740862cd8ddf59e793) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '65149def224fba3d28634bf77657716a') in 0.011282 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000218 seconds.
+  path: Assets/RPG_FPS_game_assets_industrial/Fences/Concrete_fences/UNIConcrete_fences/Source/UNIConcrete_fence_v1.FBX
+  artifactKey: Guid(21d8c72ca526f4445ba883fb8728b364) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RPG_FPS_game_assets_industrial/Fences/Concrete_fences/UNIConcrete_fences/Source/UNIConcrete_fence_v1.FBX using Guid(21d8c72ca526f4445ba883fb8728b364) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ef5266a5ccc860317796e3169ef3f120') in 0.043678 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000183 seconds.
+  path: Assets/SteamVR/Models/vr_floppyHand.fbx
+  artifactKey: Guid(395115150fc0faf40abd1994e7405303) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SteamVR/Models/vr_floppyHand.fbx using Guid(395115150fc0faf40abd1994e7405303) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '83b764dd1e42ab43c89d996d9ee109e6') in 0.140488 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000163 seconds.
+  path: Assets/SteamVR/InteractionSystem/Longbow/Sounds/ArrowLaunchFire03.wav
+  artifactKey: Guid(63bf984cc50332446bc0517a4813d447) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SteamVR/InteractionSystem/Longbow/Sounds/ArrowLaunchFire03.wav using Guid(63bf984cc50332446bc0517a4813d447) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd40bcb57b7e8faeeb1c2bdcc0fd6dd7c') in 0.016917 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000146 seconds.
+  path: Assets/SteamVR/InteractionSystem/Longbow/Sounds/ArrowLaunchFire10.wav
+  artifactKey: Guid(07052560d042e0e4ba61076ebb2e1b94) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SteamVR/InteractionSystem/Longbow/Sounds/ArrowLaunchFire10.wav using Guid(07052560d042e0e4ba61076ebb2e1b94) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '26a8ffe62f20aad9692eeba0058cd44b') in 0.012599 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000311 seconds.
+  path: Assets/SteamVR/InteractionSystem/Samples/JoeJeff/Animation/HumanoidRunTurnSharp.fbx
+  artifactKey: Guid(f2bed5dc5afacff44a00de8daae9703b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SteamVR/InteractionSystem/Samples/JoeJeff/Animation/HumanoidRunTurnSharp.fbx using Guid(f2bed5dc5afacff44a00de8daae9703b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b46cb9936d28be87d72655818f41f1ae') in 0.011938 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000207 seconds.
+  path: Assets/SteamVR/InteractionSystem/Longbow/Sounds/BalloonBounce03.wav
+  artifactKey: Guid(39cd38d16e194ab47ae7ae092c5f9e07) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SteamVR/InteractionSystem/Longbow/Sounds/BalloonBounce03.wav using Guid(39cd38d16e194ab47ae7ae092c5f9e07) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'db0994cc3bb5c201d740bcd211c74296') in 0.011486 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000187 seconds.
+  path: Assets/SteamVR/InteractionSystem/Samples/JoeJeff/Animation/HumanoidRun.fbx
+  artifactKey: Guid(1cb8ed3cbba15f0479fbae54e0a963df) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SteamVR/InteractionSystem/Samples/JoeJeff/Animation/HumanoidRun.fbx using Guid(1cb8ed3cbba15f0479fbae54e0a963df) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '96bb69834b584b275b853aeaf13e6d64') in 0.010700 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000224 seconds.
+  path: Assets/SteamVR/InteractionSystem/Longbow/Sounds/Default.mixer
+  artifactKey: Guid(ec12f7772c03e4c4c9e4c2f1643595ad) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SteamVR/InteractionSystem/Longbow/Sounds/Default.mixer using Guid(ec12f7772c03e4c4c9e4c2f1643595ad) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '21d88c950aafc4c291283ac43bea7c20') in 0.009268 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000193 seconds.
+  path: Assets/SteamVR/InteractionSystem/Samples/BuggyBuddy/UI/BuggyUI/RPMCounterFill.png
+  artifactKey: Guid(05f36522b35629f44aac32011b53123b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SteamVR/InteractionSystem/Samples/BuggyBuddy/UI/BuggyUI/RPMCounterFill.png using Guid(05f36522b35629f44aac32011b53123b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'aec1aaf7870445bc3d7ceeeee33cca87') in 0.012978 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000159 seconds.
+  path: Assets/SteamVR/InteractionSystem/Longbow/Sounds/ArrowLaunchFire08.wav
+  artifactKey: Guid(a24f92749a872c94d993c87f9ad3a53e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SteamVR/InteractionSystem/Longbow/Sounds/ArrowLaunchFire08.wav using Guid(a24f92749a872c94d993c87f9ad3a53e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '482799874b05c30557c10a6be49f83b7') in 0.010653 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000183 seconds.
+  path: Assets/SteamVR/InteractionSystem/Longbow/Sounds/BalloonBounce01.wav
+  artifactKey: Guid(465e24e196f24c3498bbd20246f9f1ca) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SteamVR/InteractionSystem/Longbow/Sounds/BalloonBounce01.wav using Guid(465e24e196f24c3498bbd20246f9f1ca) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3c3297859e6a4bc8b34cf20ae218ad5e') in 0.011688 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000190 seconds.
+  path: Assets/SteamVR/InteractionSystem/Longbow/Sounds/ArrowLaunchFire01.wav
+  artifactKey: Guid(4bb527c4eb5b08c44b8d24a14a6ab3ce) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SteamVR/InteractionSystem/Longbow/Sounds/ArrowLaunchFire01.wav using Guid(4bb527c4eb5b08c44b8d24a14a6ab3ce) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b1ad586703b63e2cd8c1718605552884') in 0.013057 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000181 seconds.
+  path: Assets/SteamVR/InteractionSystem/Longbow/Sounds/ArrowLaunchFire13.wav
+  artifactKey: Guid(c9b9c3bb824daba4b9cb39713cd412a6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SteamVR/InteractionSystem/Longbow/Sounds/ArrowLaunchFire13.wav using Guid(c9b9c3bb824daba4b9cb39713cd412a6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '89b49aa1480593529399d53fd71b1206') in 0.013007 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000186 seconds.
+  path: Assets/SteamVR/InteractionSystem/Longbow/Sounds/BalloonBounce02.wav
+  artifactKey: Guid(2ec0e14254efe4040b7ae3a0da46d5a6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SteamVR/InteractionSystem/Longbow/Sounds/BalloonBounce02.wav using Guid(2ec0e14254efe4040b7ae3a0da46d5a6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '71bdabd5fe3021063f471411d54aaadc') in 0.012351 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000190 seconds.
+  path: Assets/SteamVR/InteractionSystem/Longbow/Sounds/ArrowFallGround06.wav
+  artifactKey: Guid(9ad392a45efa3b14bbcc169371974cd7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SteamVR/InteractionSystem/Longbow/Sounds/ArrowFallGround06.wav using Guid(9ad392a45efa3b14bbcc169371974cd7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '41f5364b2421482e0038efb74b44a6a8') in 0.012034 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000180 seconds.
+  path: Assets/RPG_FPS_game_assets_industrial/Fences/Concrete_fences/UNIConcrete_fences/UNIConcrete_fence_v1_end.prefab
+  artifactKey: Guid(be5fbd779d793664582acd2f1cd23155) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RPG_FPS_game_assets_industrial/Fences/Concrete_fences/UNIConcrete_fences/UNIConcrete_fence_v1_end.prefab using Guid(be5fbd779d793664582acd2f1cd23155) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9f6978c48c15304019d804718f8ace1c') in 0.013721 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000198 seconds.
+  path: Assets/RPG_FPS_game_assets_industrial/Fences/Concrete_fences/UNIConcrete_fences/UNIConcrete_fence_v1_c1.prefab
+  artifactKey: Guid(4c2f19328cc277844ba9164493cfd392) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RPG_FPS_game_assets_industrial/Fences/Concrete_fences/UNIConcrete_fences/UNIConcrete_fence_v1_c1.prefab using Guid(4c2f19328cc277844ba9164493cfd392) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5c169fe75de2bf56727d17ce4bafc39f') in 0.015273 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000192 seconds.
+  path: Assets/SteamVR/InteractionSystem/Samples/BuggyBuddy/UI/Roundsquare.png
+  artifactKey: Guid(aa45b5fa956e6234eb161fc63113b33a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SteamVR/InteractionSystem/Samples/BuggyBuddy/UI/Roundsquare.png using Guid(aa45b5fa956e6234eb161fc63113b33a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8dc5939279feb09454b4ebbc1f253f36') in 0.015163 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000196 seconds.
+  path: Assets/SteamVR/InteractionSystem/Longbow/Sounds/ArrowLaunchFire07.wav
+  artifactKey: Guid(518ba9936d20b554f98e8472b29da0b5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SteamVR/InteractionSystem/Longbow/Sounds/ArrowLaunchFire07.wav using Guid(518ba9936d20b554f98e8472b29da0b5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a58597e8f2b8fa34f3458364b9ed1c8f') in 0.013112 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000225 seconds.
+  path: Assets/RPG_FPS_game_assets_industrial/Fences/Concrete_fences/UNIConcrete_fences/UNIConcrete_fence_v1_c2.prefab
+  artifactKey: Guid(82c468ed5f42d8b4491c8bdf175a17d3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RPG_FPS_game_assets_industrial/Fences/Concrete_fences/UNIConcrete_fences/UNIConcrete_fence_v1_c2.prefab using Guid(82c468ed5f42d8b4491c8bdf175a17d3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9a3eef93942c4c226b88479b5d1cd249') in 0.014172 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000194 seconds.
+  path: Assets/RPG_FPS_game_assets_industrial/Fences/Concrete_fences/UNIConcrete_fences/UNIConcrete_fence_v1_L.prefab
+  artifactKey: Guid(7d3f5ccb558e7df4da8169755570ff76) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RPG_FPS_game_assets_industrial/Fences/Concrete_fences/UNIConcrete_fences/UNIConcrete_fence_v1_L.prefab using Guid(7d3f5ccb558e7df4da8169755570ff76) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'dfa141b4e8f764f59f6c8b7803969b56') in 0.013966 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000245 seconds.
+  path: Assets/SteamVR/InteractionSystem/Longbow/Sounds/ArrowLaunchFire06.wav
+  artifactKey: Guid(f469358269d38b143b9f7bc2d6b57a29) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SteamVR/InteractionSystem/Longbow/Sounds/ArrowLaunchFire06.wav using Guid(f469358269d38b143b9f7bc2d6b57a29) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '926fea6865191d906527b9a603dadf97') in 0.014819 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000276 seconds.
+  path: Assets/SteamVR/InteractionSystem/Samples/JoeJeff/Animation/HumanoidRunTurn.fbx
+  artifactKey: Guid(1062212255550964e974f3ffb3cbaae3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SteamVR/InteractionSystem/Samples/JoeJeff/Animation/HumanoidRunTurn.fbx using Guid(1062212255550964e974f3ffb3cbaae3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0eaf597da21e15fe46f0ec0fb89f4a36') in 0.012349 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000235 seconds.
+  path: Assets/SteamVR/InteractionSystem/Samples/Models/Table_Round.prefab
+  artifactKey: Guid(e7af05fa230061c4da07e8ceda602506) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SteamVR/InteractionSystem/Samples/Models/Table_Round.prefab using Guid(e7af05fa230061c4da07e8ceda602506) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2efbf78e6122231315ae6962f69e566d') in 0.021630 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000215 seconds.
+  path: Assets/SteamVR/InteractionSystem/Longbow/Sounds/BalloonBounce07.wav
+  artifactKey: Guid(891b9c1d17e50204a85ebdf71b6670f5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SteamVR/InteractionSystem/Longbow/Sounds/BalloonBounce07.wav using Guid(891b9c1d17e50204a85ebdf71b6670f5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0411102f8a016accbec073fa0c1cbb52') in 0.013519 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000161 seconds.
+  path: Assets/SteamVR/InteractionSystem/Longbow/Sounds/ArrowLaunchFire11.wav
+  artifactKey: Guid(c9e412f243fb49340bea515981cab351) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SteamVR/InteractionSystem/Longbow/Sounds/ArrowLaunchFire11.wav using Guid(c9e412f243fb49340bea515981cab351) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0bbf842751bef6ba97a5322150daa79a') in 0.011375 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000223 seconds.
+  path: Assets/SteamVR/InteractionSystem/Longbow/Sounds/ArrowLaunchFire02.wav
+  artifactKey: Guid(716aaae09f0c5774a972f0bacd5e5e22) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SteamVR/InteractionSystem/Longbow/Sounds/ArrowLaunchFire02.wav using Guid(716aaae09f0c5774a972f0bacd5e5e22) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '844937d2086ebb84096303ed624e1573') in 0.013071 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000227 seconds.
+  path: Assets/SteamVR/InteractionSystem/Longbow/Sounds/ArrowLaunchFire04.wav
+  artifactKey: Guid(39d2fc39182c11e4bba4ed719d778c0e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SteamVR/InteractionSystem/Longbow/Sounds/ArrowLaunchFire04.wav using Guid(39d2fc39182c11e4bba4ed719d778c0e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f35f2aa1fbcaab521ade388141ae0bb3') in 0.013319 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000203 seconds.
+  path: Assets/SteamVR/InteractionSystem/Longbow/Prefabs/BalloonPopNoSound.prefab
+  artifactKey: Guid(a41945a8549c580408301691c2fd374e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SteamVR/InteractionSystem/Longbow/Prefabs/BalloonPopNoSound.prefab using Guid(a41945a8549c580408301691c2fd374e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3625495674d98dafe3700586f2e22729') in 0.067607 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000222 seconds.
+  path: Assets/SteamVR/InteractionSystem/Samples/BuggyBuddy/UI/BuggyUI/RPMCounterBorder.png
+  artifactKey: Guid(27916dbd53464474fbd89dc6b88228ab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SteamVR/InteractionSystem/Samples/BuggyBuddy/UI/BuggyUI/RPMCounterBorder.png using Guid(27916dbd53464474fbd89dc6b88228ab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6e05c3aab5679c59e204cc584d3853fa') in 0.015985 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 9.724219 seconds.
+  path: Assets/SteamVR/Prefabs/[SteamVR].prefab
+  artifactKey: Guid(4f35fa249b5008c44ac2998be6f82d4d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SteamVR/Prefabs/[SteamVR].prefab using Guid(4f35fa249b5008c44ac2998be6f82d4d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ed5b6630f345862dea6f44970568c69f') in 0.008578 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000185 seconds.
+  path: Assets/XR/Loaders/Open VR Loader.asset
+  artifactKey: Guid(e9f1de573faf9f844a4c3ef057bb4921) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/XR/Loaders/Open VR Loader.asset using Guid(e9f1de573faf9f844a4c3ef057bb4921) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c09f2b249e67f1a2f3993a839f91f6a9') in 0.008616 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000166 seconds.
+  path: Assets/XR/Settings/Open VR Settings.asset
+  artifactKey: Guid(5ca61e5f86418fc4ab5ce3fa824c7d15) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/XR/Settings/Open VR Settings.asset using Guid(5ca61e5f86418fc4ab5ce3fa824c7d15) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '780db816efa34ba51b286ca9bba499d1') in 0.184471 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000206 seconds.
+  path: Assets/SteamVR/Editor/SteamVR_Editor.asmdef
+  artifactKey: Guid(9bac448de04a4f6448fee1acc220e5a1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SteamVR/Editor/SteamVR_Editor.asmdef using Guid(9bac448de04a4f6448fee1acc220e5a1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5d5a6ac63c9e151755385582869bee6d') in 0.006598 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000308 seconds.
+  path: Assets/SteamVR/Resources/SteamVR_ExternalCamera.prefab
+  artifactKey: Guid(6b259143c09ffc447ad059e5b8d8cf89) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SteamVR/Resources/SteamVR_ExternalCamera.prefab using Guid(6b259143c09ffc447ad059e5b8d8cf89) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '87ed3878bb63b091e68bf95a993a0383') in 0.009580 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000240 seconds.
+  path: Assets/SteamVR/Icon/_steamvr.png
+  artifactKey: Guid(200a36575873a1d40baa790e18dafe5d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SteamVR/Icon/_steamvr.png using Guid(200a36575873a1d40baa790e18dafe5d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1be730bb3f7be20693c9cf332dc2333f') in 0.012437 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000195 seconds.
+  path: Assets/SteamVR/Resources/SteamVR_HoverHighlight_URP.mat
+  artifactKey: Guid(205922f2f6cef6f4e886cbeb581b0d81) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SteamVR/Resources/SteamVR_HoverHighlight_URP.mat using Guid(205922f2f6cef6f4e886cbeb581b0d81) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'eeb51307cd6ef9dd7c6ad5b729428635') in 0.020417 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000182 seconds.
+  path: Assets/SteamVR/Models/Materials/models_hands_vr_glove.vmat.mat
+  artifactKey: Guid(fad1eadf5b103e94ebbe02490afe0503) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SteamVR/Models/Materials/models_hands_vr_glove.vmat.mat using Guid(fad1eadf5b103e94ebbe02490afe0503) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e028816605a4ce1fae402605842d91fe') in 0.013139 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000196 seconds.
+  path: Assets/SteamVR/Resources/SteamVR_HoverHighlight.mat
+  artifactKey: Guid(3f7b904f6bd0b77429148042b0254530) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SteamVR/Resources/SteamVR_HoverHighlight.mat using Guid(3f7b904f6bd0b77429148042b0254530) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'af519adb859ea54905b4f108c9ecbdf1') in 0.016096 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 2.877062 seconds.
+  path: Assets/SteamVR/Input/Editor/SteamVR_Input_Editor.asmdef
+  artifactKey: Guid(2476fd5d698aa614194466a3af5d192f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SteamVR/Input/Editor/SteamVR_Input_Editor.asmdef using Guid(2476fd5d698aa614194466a3af5d192f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0ab5565cfa5434bb88c4c8135b87beca') in 0.006841 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 1.248573 seconds.
+  path: Assets/SteamVR_Resources/Resources/SteamVR_Settings.asset
+  artifactKey: Guid(0a6dec5997676e7438206ed873e8c4d3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SteamVR_Resources/Resources/SteamVR_Settings.asset using Guid(0a6dec5997676e7438206ed873e8c4d3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0bcf4d44c458f16bd8d5ca8de6bc028f') in 0.007358 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000160 seconds.
+  path: Assets/SteamVR/Icon/SteamVR_Skeleton_Pose Icon.png
+  artifactKey: Guid(a9d04296988f9324d98f54789595e5bf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SteamVR/Icon/SteamVR_Skeleton_Pose Icon.png using Guid(a9d04296988f9324d98f54789595e5bf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e60e587d4407f69fab2a316d32dca4ec') in 0.012800 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.389655 seconds.
+  path: Assets/SteamVR/Extras/SteamVR_TestTrackedCamera.mat
+  artifactKey: Guid(99ee8d48ccf36264e9d9a72baa681249) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SteamVR/Extras/SteamVR_TestTrackedCamera.mat using Guid(99ee8d48ccf36264e9d9a72baa681249) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fd054ef0701eb558deae8b11a5ccac00') in 0.035390 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000193 seconds.
+  path: Assets/SteamVR/Models/vr_alien_hand.fbx
+  artifactKey: Guid(35bf13fffe3e1b54b9be7cf6d9808f97) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SteamVR/Models/vr_alien_hand.fbx using Guid(35bf13fffe3e1b54b9be7cf6d9808f97) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c98920161417120b5a4729f2763bc0e0') in 0.026947 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000248 seconds.
+  path: Assets/SteamVR/Models/vr_glove_left_model_slim.fbx
+  artifactKey: Guid(65d8eda911e0ba548a3674f65c43308b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SteamVR/Models/vr_glove_left_model_slim.fbx using Guid(65d8eda911e0ba548a3674f65c43308b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1b1b9d5f202d6469286197f0d638e8e2') in 0.226732 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000191 seconds.
+  path: Assets/SteamVR/Models/vr_glove_model.fbx
+  artifactKey: Guid(02d2c3f5b5ca1014c8fb700e729167ae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SteamVR/Models/vr_glove_model.fbx using Guid(02d2c3f5b5ca1014c8fb700e729167ae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b3197223f7c3ae1cfc9627fcf9f275bb') in 0.026635 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000170 seconds.
+  path: Assets/SteamVR/Models/Materials/vr_glove_color_red.jpg
+  artifactKey: Guid(0b48b3ebf45947c499c4a0f205efd100) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SteamVR/Models/Materials/vr_glove_color_red.jpg using Guid(0b48b3ebf45947c499c4a0f205efd100) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ca84249e03ef030be467b98f9c742727') in 0.014923 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000239 seconds.
+  path: Assets/SteamVR/InteractionSystem/Core/Materials/SteamVRControllerModel.mat
+  artifactKey: Guid(3c433e134e4719444b65bf064a77e22e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SteamVR/InteractionSystem/Core/Materials/SteamVRControllerModel.mat using Guid(3c433e134e4719444b65bf064a77e22e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6160a861d158c87504069b1165225669') in 0.012784 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000187 seconds.
+  path: Assets/SteamVR/Prefabs/vr_glove_left_model_slim.prefab
+  artifactKey: Guid(638779290bce1af49b356f33dcc6fccf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SteamVR/Prefabs/vr_glove_left_model_slim.prefab using Guid(638779290bce1af49b356f33dcc6fccf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '586b1d4cdce7670d3e20b40b5c89ae33') in 0.022257 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000178 seconds.
+  path: Assets/SteamVR/Models/Materials/vr_glove_color.mat
+  artifactKey: Guid(cbe636ca800df264c9fb91dc95fbd9e0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SteamVR/Models/Materials/vr_glove_color.mat using Guid(cbe636ca800df264c9fb91dc95fbd9e0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9d7a0c94cb2779389c4287d373fac15d') in 0.013481 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000208 seconds.
+  path: Assets/SteamVR/Prefabs/vr_glove_left.prefab
+  artifactKey: Guid(057574477c20401448aba7c848873712) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SteamVR/Prefabs/vr_glove_left.prefab using Guid(057574477c20401448aba7c848873712) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '43c1f57205612e03b0aebf40dbf1eb7d') in 0.018823 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000166 seconds.
+  path: Assets/SteamVR/Models/Materials/vr_glove_color.jpg
+  artifactKey: Guid(376598f82a9237644a365fa0cc9e873a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SteamVR/Models/Materials/vr_glove_color.jpg using Guid(376598f82a9237644a365fa0cc9e873a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '514669b793df27544e6188517eef5ca8') in 0.011992 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000194 seconds.
+  path: Assets/SteamVR/Models/Materials/vr_glove_normal.png
+  artifactKey: Guid(3ba9d5201b468524ca8df1e0969a2108) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SteamVR/Models/Materials/vr_glove_normal.png using Guid(3ba9d5201b468524ca8df1e0969a2108) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8e0aef3b1cd6d5bc3a136253b382eb4f') in 0.015672 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000189 seconds.
+  path: Assets/SteamVR/Models/Materials/vr_glove_color_red.mat
+  artifactKey: Guid(8f32b3d74401443479c643e48c21915a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SteamVR/Models/Materials/vr_glove_color_red.mat using Guid(8f32b3d74401443479c643e48c21915a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '844c9c19b792ee466dd05b646fb078e8') in 0.012210 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000206 seconds.
+  path: Assets/SteamVR/WindowsHelper/SteamVR_Windows_EditorHelper.asmdef
+  artifactKey: Guid(256e975f9c776644aa4d86bc0c894f33) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SteamVR/WindowsHelper/SteamVR_Windows_EditorHelper.asmdef using Guid(256e975f9c776644aa4d86bc0c894f33) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9be585b33e81442d06255ab0b2bac536') in 0.006735 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 1.282737 seconds.
+  path: Assets/SteamVR/Prefabs/vr_glove_right.prefab
+  artifactKey: Guid(5dc81ef5cae96304586abbc6e4b5beb8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SteamVR/Prefabs/vr_glove_right.prefab using Guid(5dc81ef5cae96304586abbc6e4b5beb8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd164d6ff9a1cc5ae5519e85e9b77b45a') in 0.018539 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000186 seconds.
+  path: Assets/SteamVR/InteractionSystem/Core/Icons/vr_interaction_system_left_hand.png
+  artifactKey: Guid(27f3faef5a63db84c9cbac06e94ab7b3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SteamVR/InteractionSystem/Core/Icons/vr_interaction_system_left_hand.png using Guid(27f3faef5a63db84c9cbac06e94ab7b3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b47192eeb3dd4a2f59db78aa1fb1e612') in 0.018602 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000246 seconds.
+  path: Assets/SteamVR/Prefabs/vr_hand_floppy_left.prefab
+  artifactKey: Guid(85d52d9937d11064295294895b28d068) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SteamVR/Prefabs/vr_hand_floppy_left.prefab using Guid(85d52d9937d11064295294895b28d068) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '80d35c839698ce07d791b6df6b51e63f') in 0.024319 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000193 seconds.
+  path: Assets/SteamVR/InteractionSystem/Core/Icons/vr_interaction_system_unknown_hand.png
+  artifactKey: Guid(77b322b27d7d39f4d91e479d19065d50) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SteamVR/InteractionSystem/Core/Icons/vr_interaction_system_unknown_hand.png using Guid(77b322b27d7d39f4d91e479d19065d50) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5eef2fecca5a39d8c4ec7d2aeb56de68') in 0.012868 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000254 seconds.
+  path: Assets/SteamVR/InteractionSystem/Core/Icons/vr_interaction_system_right_hand_question.png
+  artifactKey: Guid(90173f9e9e795f74ca97ccc52fe410cd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SteamVR/InteractionSystem/Core/Icons/vr_interaction_system_right_hand_question.png using Guid(90173f9e9e795f74ca97ccc52fe410cd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b7c5d7cf62bc055918346d005db170b1') in 0.013711 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000256 seconds.
+  path: Assets/SteamVR/Prefabs/vr_glove_right_model_slim.prefab
+  artifactKey: Guid(6def53d002137b747aec0b29551e0e25) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SteamVR/Prefabs/vr_glove_right_model_slim.prefab using Guid(6def53d002137b747aec0b29551e0e25) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c1d968ce74bac9ebe96a0251001aae38') in 0.018620 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000172 seconds.
+  path: Assets/SteamVR/Models/vr_glove_right_model_slim.fbx
+  artifactKey: Guid(641e9d2f5c6b4cb438161abef3be8300) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SteamVR/Models/vr_glove_right_model_slim.fbx using Guid(641e9d2f5c6b4cb438161abef3be8300) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd7abcb5d04aef5d88e0345270a077c86') in 0.021912 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000167 seconds.
+  path: Assets/SteamVR/Prefabs/vr_hand_alien_left.prefab
+  artifactKey: Guid(78cacad1b5fb93349a980d2189b52b89) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SteamVR/Prefabs/vr_hand_alien_left.prefab using Guid(78cacad1b5fb93349a980d2189b52b89) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4fa5b2cbb50650eb7102a21b2a52a63c') in 0.021357 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000208 seconds.
+  path: Assets/SteamVR/Prefabs/vr_hand_floppy_right.prefab
+  artifactKey: Guid(48a64ca49a112494fa864087de12b75c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SteamVR/Prefabs/vr_hand_floppy_right.prefab using Guid(48a64ca49a112494fa864087de12b75c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c903e510d9a8a974b88dc8003d0bfd38') in 0.021295 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000171 seconds.
+  path: Assets/SteamVR/InteractionSystem/Core/Icons/vr_interaction_system.png
+  artifactKey: Guid(b93fe5c516cf6ed4b9153ec790f856e2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SteamVR/InteractionSystem/Core/Icons/vr_interaction_system.png using Guid(b93fe5c516cf6ed4b9153ec790f856e2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '335013087a7074d35fa47966e3d3309f') in 0.011201 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000193 seconds.
+  path: Assets/SteamVR/Prefabs/vr_hand_alien_right.prefab
+  artifactKey: Guid(a2330dd3e2bcb44428f727270af1d625) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SteamVR/Prefabs/vr_hand_alien_right.prefab using Guid(a2330dd3e2bcb44428f727270af1d625) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f96713e4a999e4f173808d704bf6fd41') in 0.020490 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000201 seconds.
+  path: Assets/SteamVR/InteractionSystem/Core/Icons/vr_interaction_system_right_hand.png
+  artifactKey: Guid(1acda2a2584a8fb4683ea56799b27fa0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SteamVR/InteractionSystem/Core/Icons/vr_interaction_system_right_hand.png using Guid(1acda2a2584a8fb4683ea56799b27fa0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '88428e41fc88babcf0fedbe8aab88306') in 0.012193 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000189 seconds.
+  path: Assets/SteamVR/InteractionSystem/Core/Icons/vr_interaction_system_left_hand_question.png
+  artifactKey: Guid(6789d499b24f8964c8bb06e21008e546) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SteamVR/InteractionSystem/Core/Icons/vr_interaction_system_left_hand_question.png using Guid(6789d499b24f8964c8bb06e21008e546) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c56c25d92ad44ee2752f72d190e3ba6d') in 0.012660 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000197 seconds.
+  path: Assets/SteamVR/InteractionSystem/Core/Icons/vr_interaction_system_feet.png
+  artifactKey: Guid(032fb1710098a1d47ad34d72e90f714a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SteamVR/InteractionSystem/Core/Icons/vr_interaction_system_feet.png using Guid(032fb1710098a1d47ad34d72e90f714a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0ae196fa7b13fa17d59b8f5e908782cd') in 0.011999 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000237 seconds.
+  path: Assets/SteamVR/Models/vr_hand_grabposes.fbx
+  artifactKey: Guid(5b1b3324d9af1db498a8cb294cc8d274) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SteamVR/Models/vr_hand_grabposes.fbx using Guid(5b1b3324d9af1db498a8cb294cc8d274) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7f3ab133bf5cc7a4a7cf2e35d47065a4') in 0.028777 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 5.885756 seconds.
+  path: Assets/SteamVR/InteractionSystem/Hints/Prefabs/ControllerTextHint.prefab
+  artifactKey: Guid(5fa42bb9e52706a42b8a1eaf0b54326a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SteamVR/InteractionSystem/Hints/Prefabs/ControllerTextHint.prefab using Guid(5fa42bb9e52706a42b8a1eaf0b54326a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '10b3185560d11eb967a7af06e385d2d9') in 0.027215 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000190 seconds.
+  path: Assets/SteamVR/InteractionSystem/Teleport/Materials URP/URPTeleportPointText.mat
+  artifactKey: Guid(7405a0e72d2cbda4184774c25ee70fd4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SteamVR/InteractionSystem/Teleport/Materials URP/URPTeleportPointText.mat using Guid(7405a0e72d2cbda4184774c25ee70fd4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '218bcaf79f980444d8aeaaab6418c0ce') in 0.017608 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000155 seconds.
+  path: Assets/SteamVR/InteractionSystem/Hints/Materials/URPControllerTextHintAnchor.mat
+  artifactKey: Guid(5ee00630a4cba94459f162ea174a1d97) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SteamVR/InteractionSystem/Hints/Materials/URPControllerTextHintAnchor.mat using Guid(5ee00630a4cba94459f162ea174a1d97) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '67df1a39451a5a4bfe7f77374a6709d0') in 0.013533 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000211 seconds.
+  path: Assets/SteamVR/InteractionSystem/Hints/Materials/ControllerTextHintAnchor.mat
+  artifactKey: Guid(7f08f06256ab27b4cb9eb0b41831a69f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SteamVR/InteractionSystem/Hints/Materials/ControllerTextHintAnchor.mat using Guid(7f08f06256ab27b4cb9eb0b41831a69f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4fe4f4fee0b20086aff35d78925da8a3') in 0.012358 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000196 seconds.
+  path: Assets/SteamVR/InteractionSystem/Hints/Materials/ControllerTextHintLine.mat
+  artifactKey: Guid(fa05b1dac59aa764184da0aba83b2bf9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SteamVR/InteractionSystem/Hints/Materials/ControllerTextHintLine.mat using Guid(fa05b1dac59aa764184da0aba83b2bf9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1924a5b1368957d84d5d7ff8e218e725') in 0.013034 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000203 seconds.
+  path: Assets/SteamVR/Input/Editor/Resources/Icons/handmask_Index.png
+  artifactKey: Guid(2c4294febb4dfe54d98c37083da7a639) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SteamVR/Input/Editor/Resources/Icons/handmask_Index.png using Guid(2c4294febb4dfe54d98c37083da7a639) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3ce8753474a67478ed1bb67ca1935986') in 0.011919 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000205 seconds.
+  path: Assets/SteamVR/InteractionSystem/Hints/Materials/URPControllerTextHintLine.mat
+  artifactKey: Guid(d51c2116441c31e408cfcd6e44b1ff93) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SteamVR/InteractionSystem/Hints/Materials/URPControllerTextHintLine.mat using Guid(d51c2116441c31e408cfcd6e44b1ff93) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fd08cae0bc8c6363da905d744ac467d1') in 0.013824 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000198 seconds.
+  path: Assets/SteamVR/InteractionSystem/Teleport/Materials/TeleportPointText.mat
+  artifactKey: Guid(6e8b24558e6899742b276a1b6c480de1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SteamVR/InteractionSystem/Teleport/Materials/TeleportPointText.mat using Guid(6e8b24558e6899742b276a1b6c480de1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '345130e3c5bd5a747102ec4d15f2b294') in 0.011758 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 18.910584 seconds.
+  path: Assets/SteamVR/Prefabs
+  artifactKey: Guid(3e2543c4beea3eb4e9ea1e02a4bc2df2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SteamVR/Prefabs using Guid(3e2543c4beea3eb4e9ea1e02a4bc2df2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8c9d3507bd8284bf570ab8c584c1eb37') in 0.006723 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.044129 seconds.
+  path: Assets/SteamVR/Prefabs/[CameraRig].prefab
+  artifactKey: Guid(4d293c8e162f3874b982baadd71153d2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SteamVR/Prefabs/[CameraRig].prefab using Guid(4d293c8e162f3874b982baadd71153d2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '42bef8ff17a9714e635ea8a92e39e9b2') in 0.020022 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000189 seconds.
+  path: Assets/SteamVR/Prefabs/controller.prefab
+  artifactKey: Guid(e789c2cc0c98a4c4198a4033fb8ccf96) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SteamVR/Prefabs/controller.prefab using Guid(e789c2cc0c98a4c4198a4033fb8ccf96) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3706c13c3e1480c5656cc43ad4506b38') in 0.008568 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 10.389082 seconds.
+  path: Assets/SteamVR_Resources/Resources
+  artifactKey: Guid(99d42b0f8ae03a0468abc435bf36c3f4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SteamVR_Resources/Resources using Guid(99d42b0f8ae03a0468abc435bf36c3f4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'de31f1140bfdf6bc614751aba6851f0d') in 0.006803 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 4.028511 seconds.
+  path: Assets/SteamVR/Simple Sample.unity
+  artifactKey: Guid(55f0e497bac1408458ff9dcebe0b775a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SteamVR/Simple Sample.unity using Guid(55f0e497bac1408458ff9dcebe0b775a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c2d180dcc665ac27d039fdf3b1522fa9') in 0.007160 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 16.306584 seconds.
+  path: Assets/Scenes
+  artifactKey: Guid(108eaca69eba3c74aa3e156e30d0dda3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes using Guid(108eaca69eba3c74aa3e156e30d0dda3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ce2d58596d3537114a035e0807a07e9f') in 0.006805 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.695793 seconds.
+  path: Assets/Scenes/SampleScene.unity
+  artifactKey: Guid(9fc0d4010bbf28b4594072e72b8655ab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/SampleScene.unity using Guid(9fc0d4010bbf28b4594072e72b8655ab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'dbf19df773d9a66589c141ac66296df0') in 0.007847 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 5.202883 seconds.
+  path: Assets/SteamVR/InteractionSystem/Teleport/Models/TeleportMarker.fbx
+  artifactKey: Guid(0e96081d793e1994086123e2505bcc0e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SteamVR/InteractionSystem/Teleport/Models/TeleportMarker.fbx using Guid(0e96081d793e1994086123e2505bcc0e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9d8f8fd5581ccf6c53eefc98be4c4c88') in 0.030786 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 2.926133 seconds.
+  path: Assets/RPG_FPS_game_assets_industrial/Assets_showcase_scene.unity
+  artifactKey: Guid(a8f7c31154bcc5e409be7f1bb14f0b08) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RPG_FPS_game_assets_industrial/Assets_showcase_scene.unity using Guid(a8f7c31154bcc5e409be7f1bb14f0b08) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f094b31e963a6600a7fe16a470a1f5c7') in 0.007648 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 30.915269 seconds.
+  path: Assets/SteamVR/InteractionSystem
+  artifactKey: Guid(c8941a9f98c35d84cb19a5e044467de9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SteamVR/InteractionSystem using Guid(c8941a9f98c35d84cb19a5e044467de9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '986047f82901c66206e42b11dada2b9f') in 0.010160 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 5.646723 seconds.
+  path: Assets/SteamVR/InteractionSystem/Longbow/Textures/ArrowGlint.png
+  artifactKey: Guid(c4a7b02e27e148a47b782f8cd5cb598d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SteamVR/InteractionSystem/Longbow/Textures/ArrowGlint.png using Guid(c4a7b02e27e148a47b782f8cd5cb598d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bee99543ec81e0abbce2cae645cfacf3') in 0.011954 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000172 seconds.
+  path: Assets/SteamVR/InteractionSystem/Teleport/Materials/TeleportPointInvalid.mat
+  artifactKey: Guid(75bd1350b322bc149ad4b79c719cb687) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SteamVR/InteractionSystem/Teleport/Materials/TeleportPointInvalid.mat using Guid(75bd1350b322bc149ad4b79c719cb687) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '652e3d43a29933ea6214644ef7c6a825') in 0.018859 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000197 seconds.
+  path: Assets/SteamVR/InteractionSystem/Teleport/Materials URP/URPTeleportPointLocked.mat
+  artifactKey: Guid(c8665e1aa63020343bc825410291e43a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SteamVR/InteractionSystem/Teleport/Materials URP/URPTeleportPointLocked.mat using Guid(c8665e1aa63020343bc825410291e43a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9715912abb20d2ef8bd55635a8417c71') in 0.011940 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000228 seconds.
+  path: Assets/SteamVR/InteractionSystem/Teleport/Materials/TeleportPointHighlighted.mat
+  artifactKey: Guid(f71819766ca687246a2150260bcfc1c5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SteamVR/InteractionSystem/Teleport/Materials/TeleportPointHighlighted.mat using Guid(f71819766ca687246a2150260bcfc1c5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e6957dcd2358b09d1895ad28bb4083f8') in 0.011803 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000216 seconds.
+  path: Assets/SteamVR/InteractionSystem/Teleport/Materials/TeleportPointLocked.mat
+  artifactKey: Guid(f855134cdd14ab54fa2838027b3eec2f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SteamVR/InteractionSystem/Teleport/Materials/TeleportPointLocked.mat using Guid(f855134cdd14ab54fa2838027b3eec2f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e85fe9d21096da00c65eebb8b197d081') in 0.014045 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000182 seconds.
+  path: Assets/SteamVR/InteractionSystem/Teleport/Materials URP/URPTeleportPointVisible.mat
+  artifactKey: Guid(bda4e134e1985594ea5aa36ca5a739e2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SteamVR/InteractionSystem/Teleport/Materials URP/URPTeleportPointVisible.mat using Guid(bda4e134e1985594ea5aa36ca5a739e2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4f681c3e322e568fa8e4d30c89337fcc') in 0.011748 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000237 seconds.
+  path: Assets/SteamVR/InteractionSystem/Poses/fallback_point.asset
+  artifactKey: Guid(416ca9f76f309e5478daf527e55b0c80) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SteamVR/InteractionSystem/Poses/fallback_point.asset using Guid(416ca9f76f309e5478daf527e55b0c80) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4b12fe554474b395acc559a68bc7c3ab') in 0.007664 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000192 seconds.
+  path: Assets/SteamVR/InteractionSystem/Teleport/Sounds/TeleportPointerLoop.wav
+  artifactKey: Guid(47b5e90896f0e004c85bebd26e6057e2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SteamVR/InteractionSystem/Teleport/Sounds/TeleportPointerLoop.wav using Guid(47b5e90896f0e004c85bebd26e6057e2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1d934fb82cd0977e27db28004ba4be4e') in 0.011077 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000180 seconds.
+  path: Assets/SteamVR/InteractionSystem/Teleport/Materials/TeleportPointer.mat
+  artifactKey: Guid(140bd0e59d9bee94f9f0284c9eef5b32) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SteamVR/InteractionSystem/Teleport/Materials/TeleportPointer.mat using Guid(140bd0e59d9bee94f9f0284c9eef5b32) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '01dba8a64713d39d45e0b2b11b82a59d') in 0.012282 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000230 seconds.
+  path: Assets/SteamVR/InteractionSystem/Teleport/Sounds/TeleportPointerStart.wav
+  artifactKey: Guid(7113854dded09be418cf3be1158d444c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SteamVR/InteractionSystem/Teleport/Sounds/TeleportPointerStart.wav using Guid(7113854dded09be418cf3be1158d444c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7d1895940383bc22e1aeb4388a82f927') in 0.013423 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000167 seconds.
+  path: Assets/SteamVR/InteractionSystem/Teleport/Materials URP/URPTeleportPointInvalid.mat
+  artifactKey: Guid(69cf60201b6b1c447825fbb5f8d2240b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SteamVR/InteractionSystem/Teleport/Materials URP/URPTeleportPointInvalid.mat using Guid(69cf60201b6b1c447825fbb5f8d2240b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '81a1252466150aab1f0673a603d9b542') in 0.012177 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000207 seconds.
+  path: Assets/SteamVR/InteractionSystem/Hints/Materials/ControllerButtonHints.mat
+  artifactKey: Guid(11b050e661ec0cf48a289a7266451e91) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SteamVR/InteractionSystem/Hints/Materials/ControllerButtonHints.mat using Guid(11b050e661ec0cf48a289a7266451e91) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '535f0fb099387944ac2147cdc1d14375') in 0.012985 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000170 seconds.
+  path: Assets/SteamVR/InteractionSystem/Teleport/Prefabs/TeleportPoint.prefab
+  artifactKey: Guid(73ac470d3d909d645a6c89a4664b6849) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SteamVR/InteractionSystem/Teleport/Prefabs/TeleportPoint.prefab using Guid(73ac470d3d909d645a6c89a4664b6849) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5f245f2f090ff9c23e1e0fab6beb5b93') in 0.016432 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000154 seconds.
+  path: Assets/SteamVR/InteractionSystem/Teleport/Materials/TeleportPointVisible.mat
+  artifactKey: Guid(510c6e0b8b5c948458c2b4bc3de5a637) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SteamVR/InteractionSystem/Teleport/Materials/TeleportPointVisible.mat using Guid(510c6e0b8b5c948458c2b4bc3de5a637) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5dea4371278110fdf8a6bed0863ef6c3') in 0.013136 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000160 seconds.
+  path: Assets/SteamVR/InteractionSystem/Teleport/Materials URP/URPTeleportPointHighlighted.mat
+  artifactKey: Guid(92c458d658d953f4588489c06de30b56) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SteamVR/InteractionSystem/Teleport/Materials URP/URPTeleportPointHighlighted.mat using Guid(92c458d658d953f4588489c06de30b56) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c66d919dc0212cac3c9b170766fa4685') in 0.011317 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000220 seconds.
+  path: Assets/SteamVR/InteractionSystem/Teleport/Materials URP/URPTeleportPointer.mat
+  artifactKey: Guid(da2a09186fc8dfa4c9f1c2933159f94f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SteamVR/InteractionSystem/Teleport/Materials URP/URPTeleportPointer.mat using Guid(da2a09186fc8dfa4c9f1c2933159f94f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cb7af30f920656207f5f25380457d04e') in 0.012431 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000244 seconds.
+  path: Assets/SteamVR/InteractionSystem/Hints/Materials/URPControllerButtonHints.mat
+  artifactKey: Guid(70a2eb634d7ed434b86d36f190fcf3a1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SteamVR/InteractionSystem/Hints/Materials/URPControllerButtonHints.mat using Guid(70a2eb634d7ed434b86d36f190fcf3a1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b5140c86273b386013f063ba11e9250c') in 0.011300 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000192 seconds.
+  path: Assets/SteamVR/InteractionSystem/Longbow/Materials/ArrowGlint.mat
+  artifactKey: Guid(f3004e0c0e5df074abcb3548fd812bfc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SteamVR/InteractionSystem/Longbow/Materials/ArrowGlint.mat using Guid(f3004e0c0e5df074abcb3548fd812bfc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5bff297bc09e99aa1cbb155689b95999') in 0.011919 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 2.933753 seconds.
+  path: Assets/SteamVR/InteractionSystem/Samples/Interactions_Example.unity
+  artifactKey: Guid(e3b77830391f10343929883b18f4d5ae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SteamVR/InteractionSystem/Samples/Interactions_Example.unity using Guid(e3b77830391f10343929883b18f4d5ae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '689b6cb84b92130ec69fddf66302090b') in 0.007255 seconds 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.007703 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image C:\Users\ukush\industrial\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
+Symbol file LoadedFromMemory doesn't match image C:\Users\ukush\industrial\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.91 ms, found 6 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.283 seconds
+Domain Reload Profiling:
+	ReloadAssembly (1283ms)
+		BeginReloadAssembly (139ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (5ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (46ms)
+		EndReloadAssembly (1069ms)
+			LoadAssemblies (121ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (407ms)
+			ReleaseScriptCaches (1ms)
+			RebuildScriptCaches (45ms)
+			SetupLoadedEditorAssemblies (361ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (6ms)
+				SetLoadedEditorAssemblies (0ms)
+				RefreshPlugins (1ms)
+				BeforeProcessingInitializeOnLoad (64ms)
+				ProcessInitializeOnLoadAttributes (275ms)
+				ProcessInitializeOnLoadMethodAttributes (5ms)
+				AfterProcessingInitializeOnLoad (9ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (19ms)
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.93 ms, found 6 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3263 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 157.0 MB.
+System memory in use after: 157.3 MB.
+
+Unloading 20 unused Assets to reduce memory usage. Loaded Objects now: 4117.
+Total: 3.826400 ms (FindLiveObjects: 0.356900 ms CreateObjectMapping: 0.086900 ms MarkObjects: 3.352700 ms  DeleteObjects: 0.028700 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  Time since last request: 233.100835 seconds.
+  path: Assets/RPG_FPS_game_assets_industrial/Map_v1.unity
+  artifactKey: Guid(5a463281e6e238742a45430f11e82829) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RPG_FPS_game_assets_industrial/Map_v1.unity using Guid(5a463281e6e238742a45430f11e82829) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '99d4c8b8dd451b7e7d861937a8f72798') in 0.022611 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 66.591690 seconds.
+  path: Assets/Scenes/SampleScene.unity
+  artifactKey: Guid(9fc0d4010bbf28b4594072e72b8655ab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/SampleScene.unity using Guid(9fc0d4010bbf28b4594072e72b8655ab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f0394608ca9f400f2469b23a4c78e23d') in 0.002985 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 70.844815 seconds.
+  path: Assets/RPG_FPS_game_assets_industrial/Particles
+  artifactKey: Guid(d46f01f719fb0b54f91e70d762f60629) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RPG_FPS_game_assets_industrial/Particles using Guid(d46f01f719fb0b54f91e70d762f60629) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3b70054c332629bb2737775ea30001cf') in 0.008192 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 27.022271 seconds.
+  path: Assets/Scenes/SampleScene.unity
+  artifactKey: Guid(9fc0d4010bbf28b4594072e72b8655ab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/SampleScene.unity using Guid(9fc0d4010bbf28b4594072e72b8655ab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3d30b6c3568bd676f6b4c6104ef685eb') in 0.003080 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 225.878701 seconds.
+  path: Assets/Scenes/SampleScene.unity
+  artifactKey: Guid(9fc0d4010bbf28b4594072e72b8655ab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/SampleScene.unity using Guid(9fc0d4010bbf28b4594072e72b8655ab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0571bee40b80169a7f36c08deada6bcd') in 0.002992 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 236.552045 seconds.
+  path: Assets/Scenes/SampleScene.unity
+  artifactKey: Guid(9fc0d4010bbf28b4594072e72b8655ab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/SampleScene.unity using Guid(9fc0d4010bbf28b4594072e72b8655ab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e6b5273474ba01398fee179c0cfd607f') in 0.003179 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 161.413014 seconds.
+  path: Assets/Scenes/SampleScene.unity
+  artifactKey: Guid(9fc0d4010bbf28b4594072e72b8655ab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/SampleScene.unity using Guid(9fc0d4010bbf28b4594072e72b8655ab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1dd64873216bf189be573c54f44183a2') in 0.002996 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 192.313657 seconds.
+  path: Assets/Scenes/SampleScene.unity
+  artifactKey: Guid(9fc0d4010bbf28b4594072e72b8655ab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/SampleScene.unity using Guid(9fc0d4010bbf28b4594072e72b8655ab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f8e40172b258f22f66bfa672ddbf9897') in 0.002905 seconds 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.007781 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image C:\Users\ukush\industrial\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
+Symbol file LoadedFromMemory doesn't match image C:\Users\ukush\industrial\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.91 ms, found 6 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.303 seconds
+Domain Reload Profiling:
+	ReloadAssembly (1303ms)
+		BeginReloadAssembly (138ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (8ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (41ms)
+		EndReloadAssembly (1089ms)
+			LoadAssemblies (116ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (408ms)
+			ReleaseScriptCaches (1ms)
+			RebuildScriptCaches (50ms)
+			SetupLoadedEditorAssemblies (376ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (7ms)
+				SetLoadedEditorAssemblies (1ms)
+				RefreshPlugins (1ms)
+				BeforeProcessingInitializeOnLoad (72ms)
+				ProcessInitializeOnLoadAttributes (282ms)
+				ProcessInitializeOnLoadMethodAttributes (5ms)
+				AfterProcessingInitializeOnLoad (9ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (18ms)
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.94 ms, found 6 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3242 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 156.5 MB.
+System memory in use after: 156.7 MB.
+
+Unloading 18 unused Assets to reduce memory usage. Loaded Objects now: 4120.
+Total: 3.923800 ms (FindLiveObjects: 0.423500 ms CreateObjectMapping: 0.119300 ms MarkObjects: 3.356800 ms  DeleteObjects: 0.022800 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+AssetImportWorkerClient::OnTransportError - code=2 error=End of file
